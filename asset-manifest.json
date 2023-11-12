@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RazviCodingPadawan/MERN-app-auth/static/css/main.39c6761f.css",
+    "main.js": "/RazviCodingPadawan/MERN-app-auth/static/js/main.9ba69aa3.js",
+    "index.html": "/RazviCodingPadawan/MERN-app-auth/index.html",
+    "main.39c6761f.css.map": "/RazviCodingPadawan/MERN-app-auth/static/css/main.39c6761f.css.map",
+    "main.9ba69aa3.js.map": "/RazviCodingPadawan/MERN-app-auth/static/js/main.9ba69aa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c6761f.css",
+    "static/js/main.9ba69aa3.js"
+  ]
+}
